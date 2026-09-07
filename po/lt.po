@@ -641,7 +641,8 @@ msgid ""
 "Copy the screen contents as HTML to a temporary file and paste the path to "
 "the file."
 msgstr ""
-"Įrašyti ekrano turinį kaip HTML į laikinąjį failą ir įklijuoti jo kelią į failą."
+"Įrašyti ekrano turinį kaip HTML į laikinąjį failą ir įklijuoti jo kelią į "
+"failą."
 
 #: src/input/command.zig:321
 msgid "Copy Screen as HTML to Temporary File and Open"
@@ -709,7 +710,8 @@ msgstr "Įrašyti pasirinkimą į laikinąjį failą ir įklijuoti kelią"
 msgid ""
 "Copy the selection contents to a temporary file and paste the path to the "
 "file."
-msgstr "Įrašyti pasirinkimo turinį į laikinąjį failą ir įklijuoti jo kelią į failą."
+msgstr ""
+"Įrašyti pasirinkimo turinį į laikinąjį failą ir įklijuoti jo kelią į failą."
 
 #: src/input/command.zig:364
 msgid "Copy Selection to Temporary File and Open"
@@ -728,8 +730,8 @@ msgid ""
 "Copy the selection contents as HTML to a temporary file and copy the path to "
 "the clipboard."
 msgstr ""
-"Įrašyti pasirinkimo turinį kaip HTML į laikinąjį failą ir nukopijuoti jo kelią "
-"į iškarpinę."
+"Įrašyti pasirinkimo turinį kaip HTML į laikinąjį failą ir nukopijuoti jo "
+"kelią į iškarpinę."
 
 #: src/input/command.zig:381
 msgid "Copy Selection as HTML to Temporary File and Paste Path"
@@ -748,7 +750,8 @@ msgstr "Įrašyti pasirinkimą kaip HTML į laikinąjį failą ir atidaryti"
 
 #: src/input/command.zig:390
 msgid "Copy the selection contents as HTML to a temporary file and open it."
-msgstr "Įrašyti pasirinkimo turinį kaip HTML į laikinąjį failą ir jį atidaryti."
+msgstr ""
+"Įrašyti pasirinkimo turinį kaip HTML į laikinąjį failą ir jį atidaryti."
 
 #: src/input/command.zig:398
 msgid "Copy Selection as ANSI Sequences to Temporary File and Copy Path"
@@ -773,19 +776,19 @@ msgid ""
 "Copy the selection contents as ANSI escape sequences to a temporary file and "
 "paste the path to the file."
 msgstr ""
-"Įrašyti pažymėtą turinį kaip ANSI valdymo sekas į laikinąjį failą ir "
-"įklijuoti jo kelią."
+"Įrašyti pasirinkimo turinį kaip ANSI valdymo sekas į laikinąjį failą ir "
+"įklijuoti jo kelią į failą."
 
 #: src/input/command.zig:414
 msgid "Copy Selection as ANSI Sequences to Temporary File and Open"
-msgstr "Įrašyti pažymėtą turinį kaip ANSI sekas į laikinąjį failą ir atidaryti"
+msgstr "Įrašyti pasirinkimą kaip ANSI sekas į laikinąjį failą ir atidaryti"
 
 #: src/input/command.zig:415
 msgid ""
 "Copy the selection contents as ANSI escape sequences to a temporary file and "
 "open it."
 msgstr ""
-"Įrašyti pažymėtą turinį kaip ANSI valdymo sekas į laikinąjį failą ir jį "
+"Įrašyti pasirinkimo turinį kaip ANSI valdymo sekas į laikinąjį failą ir jį "
 "atidaryti."
 
 #: src/input/command.zig:422
@@ -938,7 +941,7 @@ msgstr "Įjungti arba išjungti dabartinio terminalo tik skaitymo režimą."
 
 #: src/input/command.zig:557
 msgid "Equalize Splits"
-msgstr "Suvienodinti padalijimų dydžius"
+msgstr "Suvienodinti padalijimą"
 
 #: src/input/command.zig:558
 msgid "Equalize the size of all splits."
@@ -958,7 +961,7 @@ msgstr "Rodyti arba slėpti inspektorių"
 
 #: src/input/command.zig:570
 msgid "Toggle the inspector."
-msgstr "Rodyti arba slėpti inspektorių."
+msgstr "Rodyti arba slėpti konkretų inspektorių."
 
 #: src/input/command.zig:575
 msgid "Show the GTK Inspector"
@@ -970,11 +973,11 @@ msgstr "Rodyti GTK inspektorių."
 
 #: src/input/command.zig:581
 msgid "Show On-Screen Keyboard"
-msgstr "Rodyti ekraninę klaviatūrą"
+msgstr "Rodyti ekrano klaviatūrą"
 
 #: src/input/command.zig:582
 msgid "Show the on-screen keyboard if present."
-msgstr "Rodyti ekraninę klaviatūrą, jei ji pasiekiama."
+msgstr "Rodyti ekrano klaviatūrą, jei ji pasiekiama."
 
 #: src/input/command.zig:588
 msgid "Open Config Using OS editor"
@@ -1076,15 +1079,15 @@ msgstr "Įjungti arba išjungti dabartinio lango rodymą virš kitų."
 
 #: src/input/command.zig:666
 msgid "Toggle Secure Input"
-msgstr "Perjungti saugios įvesties režimą"
+msgstr "Įjungti arba išjungti saugios įvesties režimą"
 
 #: src/input/command.zig:667
 msgid "Toggle secure input mode."
-msgstr "Perjungti saugios įvesties režimą."
+msgstr "Įjungti arba išjungti saugios įvesties režimą."
 
 #: src/input/command.zig:672
 msgid "Toggle Mouse Reporting"
-msgstr "Perjungti pelės įvykių perdavimą"
+msgstr "Įjungti arba išjungti pelės įvykių perdavimą"
 
 #: src/input/command.zig:673
 msgid "Toggle whether mouse events are reported to terminal applications."
